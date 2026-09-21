@@ -1,0 +1,22 @@
+[
+  {
+    "repo": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "starredAt": "2024-01-15"
+  },
+  {
+    "repo": "github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "starredAt": "2024-02-20"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "starredAt": "2024-03-05"
+  },
+  {
+    "repo": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "starredAt": "2024-04-10"
+  }
+]
